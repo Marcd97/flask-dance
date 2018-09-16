@@ -1,0 +1,42 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/Documents/Fac/Languages Learning/Python/CheatSheet Python/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Fac/Languages Learning/Python/testing/venv/bin/python" value="true" />
+        <entry key="$USER_HOME$/Documents/Work/ConferencesReports/FacebookDevCircle/Data_Science_and_Machine_Learning/Data_Science_Hands_On/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/ConferencesReports/FacebookDevCircle/Data_Science_and_Machine_Learning/Machine_Learning_Hands_on/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/Interactive_Life/Medicall/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Documents/Work/Interactive_Life/PDF_Generator/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/Interactive_Life/keycloak_adapter/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Downloads/Flask-Dance-1.0.0/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Downloads/requests-master/venv/bin/python" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/some_module/venv/bin/python" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/tests/venv/bin/python" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/untitled/venv/bin/python" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/untitled4/venv/bin/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/Documents/Fac/Languages Learning/Python/CheatSheet Python/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/ConferencesReports/FacebookDevCircle/Data_Science_and_Machine_Learning/Machine_Learning_Hands_on/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/Interactive_Life/PDF_Generator/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Downloads/Flask-Dance-1.0.0/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Downloads/requests-master/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/some_module/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/untitled/venv/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/Documents/Fac/Languages Learning/Python/CheatSheet Python/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/Interactive_Life/PDF_Generator/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Downloads/Flask-Dance-1.0.0/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Downloads/requests-master/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/some_module/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/untitled/venv/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
