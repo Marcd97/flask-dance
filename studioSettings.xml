@@ -1,10 +1,5 @@
 <application>
   <component name="StudioSettings">
-    <option name="generalSettings">
-      <GeneralSettings>
-        <option name="enableInternalFeatures" value="false" />
-      </GeneralSettings>
-    </option>
     <option name="sdkSettings">
       <SdkSettings>
         <option name="allSdks">
