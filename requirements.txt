@@ -1,0 +1,7 @@
+requests>=2.0
+oauthlib
+requests-oauthlib>=1.0.0
+Flask>=0.7
+urlobject
+six
+lazy
