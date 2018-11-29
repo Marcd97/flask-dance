@@ -1,0 +1,30 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-11-29T14:36:43</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2018.2.4.0.0</property>
+    <property name="modified">2018-11-29T14:38:15</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="PY.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="9783" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="9780" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="9780" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
