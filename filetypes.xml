@@ -18,6 +18,7 @@
       <mapping pattern="To Do" type="PLAIN_TEXT" />
       <mapping pattern="LISCENCE" type="PLAIN_TEXT" />
       <mapping pattern="LISCENCE.txt" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
