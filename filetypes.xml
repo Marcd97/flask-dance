@@ -13,14 +13,12 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="db" type="DBN-SQL" />
-      <removed_mapping ext="json" type="JSON" />
       <mapping pattern="another file" type="PLAIN_TEXT" />
       <mapping pattern="one file" type="PLAIN_TEXT" />
       <mapping pattern="To Do" type="PLAIN_TEXT" />
       <mapping pattern="LISCENCE" type="PLAIN_TEXT" />
       <mapping pattern="LISCENCE.txt" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="json" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
