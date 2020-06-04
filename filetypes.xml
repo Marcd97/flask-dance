@@ -13,6 +13,7 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="db" type="DBN-SQL" />
+      <mapping pattern="diff_backup_encr" type="PLAIN_TEXT" />
       <mapping pattern="apk_2" type="PLAIN_TEXT" />
       <mapping pattern="apk_1" type="PLAIN_TEXT" />
       <mapping pattern="To Do" type="PLAIN_TEXT" />
